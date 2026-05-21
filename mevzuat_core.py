@@ -21,7 +21,7 @@ def mevzuati_guncelle():
                 "isveren": 0.155       # İşveren payı (%5 teşvikli %15.5)
             }
         },
-        "gelir_vergisi_dilimleri_2026": [
+        "gelir_vergisi_dilimleri": [
             {"limit_ust": 150000, "oran": 0.15, "aciklama": "150.000 TL'ye kadar"},
             {"limit_ust": 350000, "oran": 0.20, "aciklama": "150.000 TL - 350.000 TL arası"},
             {"limit_ust": 900000, "oran": 0.27, "aciklama": "350.000 TL - 900.000 TL arası"},
