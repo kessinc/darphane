@@ -72,11 +72,11 @@ print(f"Serbest Piyasa USD Alış: {serbest_usd_piyasa['alis']} TL\n")
 guncel_altin = dp.altin()
 
 # Gram Altın fiyatına erişim
-gram_altin = guncel_altin['altin_ve_emtia']['GA'] # 'GA' veya verideki kısaltma anahtarı
+gram_altin = guncel_altin['altin_ve_emtia']['GRAM_ALTIN'] # 'GA' veya verideki kısaltma anahtarı
 print(f"Gram Altın Alış: {gram_altin['alis']} TL | Satış: {gram_altin['satis']} TL")
 
 # Çeyrek Altın fiyatına erişim
-ceyrek_altin = guncel_altin['altin_fiyatlari']['C']
+ceyrek_altin = guncel_altin['altin_ve_emtia']['CEYREK_ALTIN']
 print(f"Çeyrek Altın Satış: {ceyrek_altin['satis']} TL\n")
 
 
@@ -85,10 +85,10 @@ print(f"Çeyrek Altın Satış: {ceyrek_altin['satis']} TL\n")
 # ---------------------------------------------------------
 resmi_tatiller = dp.tatiller()
 
-# Tüm tatil günlerini tarih ve isim olarak listeleme
 print("--- Türkiye Resmi Tatil Takvimi ---")
-for tarih, tatil_adi in resmi_tatiller['tatil_gunleri'].items():
-    print(f"📅 {tarih} -> {tatil_adi}")
+# Listeyi dönüyoruz ve her bir sözlükten verileri çekiyoruz
+for tatil in resmi_tatiller['resmi_tatiller']:
+    print(f"📅 {tatil['tarih']} -> {tatil['isim']}")
 print("\n")
 
 
@@ -97,13 +97,14 @@ print("\n")
 # ---------------------------------------------------------
 mevzuat_verileri = dp.mevzuat()
 
-# Güncel genel KDV oranına erişim
-genel_kdv = mevzuat_verileri['vergi_oranlari']['kdv']['genel']
-print(f"Güncel Genel KDV Oranı: %{genel_kdv}")
+# Güncel standart KDV oranına erişim (%20 için 0.2 döner)
+standart_kdv = mevzuat_verileri['vergi_oranlari']['kdv']['standart']
+print(f"Güncel Standart KDV Oranı: %{standart_kdv * 100}")
 
-# Gelir vergisi ilk dilim sınırını öğrenme
-ilk_dilim_siniri = mevzuat_verileri['gelir_vergisi_dilimleri']['dilim_1']['ust_sinir']
-print(f"Gelir Vergisi 1. Dilim Üst Sınırı: {ilk_dilim_siniri} TL")
+# Gelir vergisi dilimlerini listeleme (Liste yapısında olduğu için döngüyle basıyoruz)
+print("--- Gelir Vergisi Dilimleri ---")
+for dilim in mevzuat_verileri['gelir_vergisi_dilimleri']:
+    print(f"💰 Oran: %{dilim['oran'] * 100} -> {dilim['aciklama']}")
 ```
 
 > *Not: Yukarıdaki veri içindeki `['GA']`, `['vergi_oranlari']` gibi sözlük (dict) anahtarları, `altin.json` ve `mevzuat.json` dosyalarınızın tam şemasına göre küçük değişiklikler gösterebilir. Kendi JSON şemanıza göre bu kelimeleri güncelleyebilirsiniz.*
