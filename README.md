@@ -3,6 +3,7 @@
 > Türkiye finans, piyasa ve mevzuat verilerini sıfır sunucu maliyeti, sınırsız istek limiti ve %100 ulaşılan süre (uptime) ile sunan ölümsüz, sunucusuz (Serverless/GitOps) açık kaynaklı veri altyapısı.
 
 [![Darphane Otomatik Veri Güncelleyici](https://github.com/kessinc/darphane/actions/workflows/update.yml/badge.svg)](https://github.com/kessinc/darphane/actions/workflows/update.yml)
+
 ⭐ **Projeyi beğendiyseniz star atarak destek olabilirsiniz!**
 
 ---
