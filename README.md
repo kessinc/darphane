@@ -72,7 +72,7 @@ print(f"Serbest Piyasa USD Alış: {serbest_usd_piyasa['alis']} TL\n")
 guncel_altin = dp.altin()
 
 # Gram Altın fiyatına erişim
-gram_altin = guncel_altin['altin_ve_emtia']['GRAM_ALTIN'] # 'GA' veya verideki kısaltma anahtarı
+gram_altin = guncel_altin['altin_ve_emtia']['GRAM_ALTIN'] # 'GRAM_ALTIN' veya verideki kısaltma anahtarı
 print(f"Gram Altın Alış: {gram_altin['alis']} TL | Satış: {gram_altin['satis']} TL")
 
 # Çeyrek Altın fiyatına erişim
@@ -107,7 +107,7 @@ for dilim in mevzuat_verileri['gelir_vergisi_dilimleri']:
     print(f"💰 Oran: %{dilim['oran'] * 100} -> {dilim['aciklama']}")
 ```
 
-> *Not: Yukarıdaki veri içindeki `['GA']`, `['vergi_oranlari']` gibi sözlük (dict) anahtarları, `altin.json` ve `mevzuat.json` dosyalarınızın tam şemasına göre küçük değişiklikler gösterebilir. Kendi JSON şemanıza göre bu kelimeleri güncelleyebilirsiniz.*
+> *Not: Yukarıdaki veri içindeki `['GRAM_ALTIN']`, `['vergi_oranlari']` gibi sözlük (dict) anahtarları, `altin.json` ve `mevzuat.json` dosyalarınızın tam şemasına göre küçük değişiklikler gösterebilir. Kendi JSON şemanıza göre bu kelimeleri güncelleyebilirsiniz.*
 
 ### 📚 SDK Fonksiyon Listesi
 
