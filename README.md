@@ -32,27 +32,6 @@ Projelerinizde herhangi bir kütüphane indirmeden, doğrudan aşağıdaki ham U
 
 ---
 
-## 🛠️ Mimari ve Klasör Yapısı
-
-Proje tamamen modüler bir çekirdek (core) mimarisi üzerine kurulmuştur:
-
-```text
-darphane/
-├── .github/workflows/
-│   └── update.yml          # Her gün 15:45'te çalışan otomasyon motoru
-├── tcmb_core.py            # Resmi ve serbest döviz kurlarını toplayan motor
-├── altin_core.py           # Serbest piyasa altın ve emtiaları süzen motor
-├── tatiller_core.py        # Türkiye resmi tatillerini Türkçeleştiren motor
-├── mevzuat_core.py         # Güncel vergi ve yasal sabitleri basan motor
-├── main.py                 # Tüm motorları sırayla çalıştıran orkestra şefi
-├── kurlar.json             # Çıktı: Canlı Döviz Verisi
-├── altin.json              # Çıktı: Canlı Altın Verisi
-├── tatiller.json           # Çıktı: Canlı Tatil Takvimi
-└── mevzuat.json            # Çıktı: Canlı Vergi Oranları
-```
-
----
-
 ## 🐍 Python SDK ile Kullanım (Pip Paketi)
 
 Darphane verilerini ham JSON olarak çekmek yerine, projenize resmi Python kütüphanesini dahil ederek nesne tabanlı (Object Oriented) bir şekilde çok daha temiz kullanabilirsiniz.
