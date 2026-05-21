@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "2026-05-21 08:06:47",
+    "son_guncelleme": "2026-05-21 09:00:15",
     "yil": 2026,
     "vergi_oranlari": {
         "kdv": {
@@ -17,7 +17,7 @@
             "isveren": 0.155
         }
     },
-    "gelir_vergisi_dilimleri_2026": [
+    "gelir_vergisi_dilimleri": [
         {
             "limit_ust": 150000,
             "oran": 0.15,
