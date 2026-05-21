@@ -1,0 +1,95 @@
+{
+    "son_guncelleme": "2026-05-21 10:47:45",
+    "altin_ve_emtia": {
+        "GRAM_ALTIN": {
+            "orijinal_isim": "gram-altin",
+            "alis": 6623.12,
+            "satis": 6623.94
+        },
+        "GRAM_HAS_ALTIN": {
+            "orijinal_isim": "gram-has-altin",
+            "alis": 6590.01,
+            "satis": 6590.82
+        },
+        "CEYREK_ALTIN": {
+            "orijinal_isim": "ceyrek-altin",
+            "alis": 10486.97,
+            "satis": 10726.2
+        },
+        "YARIM_ALTIN": {
+            "orijinal_isim": "yarim-altin",
+            "alis": 20908.39,
+            "satis": 21452.41
+        },
+        "TAM_ALTIN": {
+            "orijinal_isim": "tam-altin",
+            "alis": 41947.87,
+            "satis": 42773.61
+        },
+        "CUMHURIYET_ALTINI": {
+            "orijinal_isim": "cumhuriyet-altini",
+            "alis": 43660.0,
+            "satis": 44320.0
+        },
+        "ATA_ALTIN": {
+            "orijinal_isim": "ata-altin",
+            "alis": 43258.74,
+            "satis": 44348.1
+        },
+        "14_AYAR_ALTIN": {
+            "orijinal_isim": "14-ayar-altin",
+            "alis": 3735.98,
+            "satis": 3739.41
+        },
+        "18_AYAR_ALTIN": {
+            "orijinal_isim": "18-ayar-altin",
+            "alis": 4784.68,
+            "satis": 4789.07
+        },
+        "22_AYAR_BILEZIK": {
+            "orijinal_isim": "22-ayar-bilezik",
+            "alis": 5977.57,
+            "satis": 5983.06
+        },
+        "IKIBUCUK_ALTIN": {
+            "orijinal_isim": "ikibucuk-altin",
+            "alis": 104869.68,
+            "satis": 106540.41
+        },
+        "BESLI_ALTIN": {
+            "orijinal_isim": "besli-altin",
+            "alis": 212361.1,
+            "satis": 216492.21
+        },
+        "GREMSE_ALTIN": {
+            "orijinal_isim": "gremse-altin",
+            "alis": 104869.68,
+            "satis": 107262.05
+        },
+        "RESAT_ALTIN": {
+            "orijinal_isim": "resat-altin",
+            "alis": 43258.74,
+            "satis": 44348.1
+        },
+        "HAMIT_ALTIN": {
+            "orijinal_isim": "hamit-altin",
+            "alis": 43258.74,
+            "satis": 44348.1
+        },
+        "GUMUS": {
+            "orijinal_isim": "gumus",
+            "alis": 109.83,
+            "satis": 109.93
+        },
+        "GRAM_PLATIN": {
+            "orijinal_isim": "gram-platin",
+            "alis": 2830.4,
+            "satis": 2836.87
+        },
+        "GRAM_PALADYUM": {
+            "orijinal_isim": "gram-paladyum",
+            "alis": 1993.29,
+            "satis": 1999.99
+        }
+    }
+}
