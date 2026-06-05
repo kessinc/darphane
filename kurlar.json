@@ -1,207 +1,101 @@
 {
-    "son_guncelleme": "2026-06-04 16:06:23",
-    "resmi_tcmb_kurlari": {
-        "USD": {
-            "isim": "ABD DOLARI",
-            "alis": 45.8873,
-            "satis": 45.97
-        },
-        "AUD": {
-            "isim": "AVUSTRALYA DOLARI",
-            "alis": 32.6663,
-            "satis": 32.8793
-        },
-        "DKK": {
-            "isim": "DANİMARKA KRONU",
-            "alis": 7.1239,
-            "satis": 7.1589
-        },
-        "EUR": {
-            "isim": "EURO",
-            "alis": 53.3268,
-            "satis": 53.4229
-        },
-        "GBP": {
-            "isim": "İNGİLİZ STERLİNİ",
-            "alis": 61.5527,
-            "satis": 61.8736
-        },
-        "CHF": {
-            "isim": "İSVİÇRE FRANGI",
-            "alis": 57.9435,
-            "satis": 58.3156
-        },
-        "SEK": {
-            "isim": "İSVEÇ KRONU",
-            "alis": 4.8796,
-            "satis": 4.9301
-        },
-        "CAD": {
-            "isim": "KANADA DOLARI",
-            "alis": 32.9505,
-            "satis": 33.0991
-        },
-        "KWD": {
-            "isim": "KUVEYT DİNARI",
-            "alis": 148.6565,
-            "satis": 150.6016
-        },
-        "NOK": {
-            "isim": "NORVEÇ KRONU",
-            "alis": 4.9176,
-            "satis": 4.9506
-        },
-        "SAR": {
-            "isim": "SUUDİ ARABİSTAN RİYALİ",
-            "alis": 12.2225,
-            "satis": 12.2445
-        },
-        "JPY": {
-            "isim": "JAPON YENİ",
-            "alis": 28.6351,
-            "satis": 28.8247
-        },
-        "RON": {
-            "isim": "RUMEN LEYİ",
-            "alis": 10.0845,
-            "satis": 10.2165
-        },
-        "RUB": {
-            "isim": "RUS RUBLESİ",
-            "alis": 0.61387,
-            "satis": 0.6219
-        },
-        "CNY": {
-            "isim": "ÇİN YUANI",
-            "alis": 6.7353,
-            "satis": 6.8235
-        },
-        "PKR": {
-            "isim": "PAKİSTAN RUPİSİ",
-            "alis": 0.16391,
-            "satis": 0.16605
-        },
-        "QAR": {
-            "isim": "KATAR RİYALİ",
-            "alis": 12.5168,
-            "satis": 12.6806
-        },
-        "KRW": {
-            "isim": "GÜNEY KORE WONU",
-            "alis": 0.02972,
-            "satis": 0.03011
-        },
-        "AZN": {
-            "isim": "AZERBAYCAN YENİ MANATI",
-            "alis": 26.8412,
-            "satis": 27.1925
-        },
-        "AED": {
-            "isim": "BİRLEŞİK ARAP EMİRLİKLERİ DİRHEMİ",
-            "alis": 12.4232,
-            "satis": 12.5858
-        },
-        "KZT": {
-            "isim": "KAZAKİSTAN TENGESİ",
-            "alis": 0.09396,
-            "satis": 0.09519
-        }
-    },
+    "son_guncelleme": "2026-06-05 15:40:24",
+    "resmi_tcmb_kurlari": {},
     "serbest_piyasa_kurlari": {
         "USD": {
             "isim": "Serbest Piyasa USD",
-            "alis": 45.9697,
-            "satis": 45.973
+            "alis": 46.0792,
+            "satis": 46.0911
         },
         "EUR": {
             "isim": "Serbest Piyasa EUR",
-            "alis": 53.5804,
-            "satis": 53.6093
+            "alis": 53.2509,
+            "satis": 53.2674
         },
         "GBP": {
             "isim": "Serbest Piyasa GBP",
-            "alis": 61.9285,
-            "satis": 61.9509
+            "alis": 61.679,
+            "satis": 61.6999
         },
         "CHF": {
             "isim": "Serbest Piyasa CHF",
-            "alis": 58.2854,
-            "satis": 58.3118
+            "alis": 57.9977,
+            "satis": 58.0273
         },
         "CAD": {
             "isim": "Serbest Piyasa CAD",
-            "alis": 33.0877,
-            "satis": 33.1009
+            "alis": 33.0886,
+            "satis": 33.1067
         },
         "RUB": {
             "isim": "Serbest Piyasa RUB",
-            "alis": 0.6261,
-            "satis": 0.6284
+            "alis": 0.6173,
+            "satis": 0.6302
         },
         "AED": {
             "isim": "Serbest Piyasa AED",
-            "alis": 12.513,
-            "satis": 12.5224
+            "alis": 12.5437,
+            "satis": 12.5537
         },
         "AUD": {
             "isim": "Serbest Piyasa AUD",
-            "alis": 32.8209,
-            "satis": 32.8351
+            "alis": 32.578,
+            "satis": 32.5956
         },
         "DKK": {
             "isim": "Serbest Piyasa DKK",
-            "alis": 7.1502,
-            "satis": 7.1546
+            "alis": 7.1175,
+            "satis": 7.1218
         },
         "SEK": {
             "isim": "Serbest Piyasa SEK",
-            "alis": 4.91,
-            "satis": 4.9123
+            "alis": 4.878,
+            "satis": 4.881
         },
         "NOK": {
             "isim": "Serbest Piyasa NOK",
-            "alis": 4.9243,
-            "satis": 4.9276
+            "alis": 4.8804,
+            "satis": 4.8842
         },
         "JPY": {
             "isim": "Serbest Piyasa JPY",
-            "alis": 0.2877,
-            "satis": 0.2884
+            "alis": 0.2874,
+            "satis": 0.2882
         },
         "KWD": {
             "isim": "Serbest Piyasa KWD",
-            "alis": 148.5664,
-            "satis": 149.0865
+            "alis": 148.7725,
+            "satis": 149.2906
         },
         "SAR": {
             "isim": "Serbest Piyasa SAR",
-            "alis": 12.2426,
-            "satis": 12.2456
+            "alis": 12.2716,
+            "satis": 12.2765
         },
         "AZN": {
             "isim": "Serbest Piyasa AZN",
-            "alis": 27.041,
-            "satis": 27.0429
+            "alis": 27.1054,
+            "satis": 27.1124
         },
         "PKR": {
             "isim": "Serbest Piyasa PKR",
-            "alis": 0.1644,
-            "satis": 0.1661
+            "alis": 0.1647,
+            "satis": 0.1664
         },
         "QAR": {
             "isim": "Serbest Piyasa QAR",
-            "alis": 12.1553,
-            "satis": 13.0469
+            "alis": 12.1729,
+            "satis": 13.0651
         },
         "KRW": {
             "isim": "Serbest Piyasa KRW",
-            "alis": 0.03,
-            "satis": 0.03
+            "alis": 0.0296,
+            "satis": 0.0296
         },
         "KZT": {
             "isim": "Serbest Piyasa KZT",
-            "alis": 0.0947,
-            "satis": 0.0947
+            "alis": 0.0948,
+            "satis": 0.0948
         }
     }
 }
