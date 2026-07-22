@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "2026-07-21 14:48:15",
+    "son_guncelleme": "2026-07-22 14:47:35",
     "altin_ve_emtia": {
         "VND": {
             "orijinal_isim": "VND",
@@ -8,93 +8,93 @@
         },
         "GRAM_ALTIN": {
             "orijinal_isim": "gram-altin",
-            "alis": 6172.66,
-            "satis": 6173.62
+            "alis": 6301.49,
+            "satis": 6302.39
         },
         "GRAM_HAS_ALTIN": {
             "orijinal_isim": "gram-has-altin",
-            "alis": 6141.8,
-            "satis": 6142.75
+            "alis": 6269.98,
+            "satis": 6270.88
         },
         "CEYREK_ALTIN": {
             "orijinal_isim": "ceyrek-altin",
-            "alis": 9824.82,
-            "satis": 10049.62
+            "alis": 10079.82,
+            "satis": 10308.19
         },
         "YARIM_ALTIN": {
             "orijinal_isim": "yarim-altin",
-            "alis": 19588.24,
-            "satis": 20099.24
+            "alis": 20096.64,
+            "satis": 20616.37
         },
         "TAM_ALTIN": {
             "orijinal_isim": "tam-altin",
-            "alis": 39299.28,
-            "satis": 40075.55
+            "alis": 40319.28,
+            "satis": 41106.65
         },
         "CUMHURIYET_ALTINI": {
             "orijinal_isim": "cumhuriyet-altini",
-            "alis": 40729.0,
-            "satis": 41345.0
+            "alis": 41664.0,
+            "satis": 42291.0
         },
         "ATA_ALTIN": {
             "orijinal_isim": "ata-altin",
-            "alis": 40527.39,
-            "satis": 41550.73
+            "alis": 41579.26,
+            "satis": 42619.78
         },
         "14_AYAR_ALTIN": {
             "orijinal_isim": "14-ayar-altin",
-            "alis": 3500.09,
-            "satis": 3503.54
+            "alis": 3590.94,
+            "satis": 3593.68
         },
         "18_AYAR_ALTIN": {
             "orijinal_isim": "18-ayar-altin",
-            "alis": 4482.57,
-            "satis": 4486.99
+            "alis": 4598.92,
+            "satis": 4602.43
         },
         "22_AYAR_BILEZIK": {
             "orijinal_isim": "22-ayar-bilezik",
-            "alis": 5600.15,
-            "satis": 5605.66
+            "alis": 5745.5,
+            "satis": 5749.89
         },
         "IKIBUCUK_ALTIN": {
             "orijinal_isim": "ikibucuk-altin",
-            "alis": 98248.21,
-            "satis": 99820.09
+            "alis": 100798.21,
+            "satis": 102388.34
         },
         "BESLI_ALTIN": {
             "orijinal_isim": "besli-altin",
-            "alis": 198952.62,
-            "satis": 202836.38
+            "alis": 204116.37,
+            "satis": 208055.13
         },
         "GREMSE_ALTIN": {
             "orijinal_isim": "gremse-altin",
-            "alis": 98248.21,
-            "satis": 100496.21
+            "alis": 100798.21,
+            "satis": 103081.86
         },
         "RESAT_ALTIN": {
             "orijinal_isim": "resat-altin",
-            "alis": 40527.39,
-            "satis": 41550.73
+            "alis": 41579.26,
+            "satis": 42619.78
         },
         "HAMIT_ALTIN": {
             "orijinal_isim": "hamit-altin",
-            "alis": 40527.39,
-            "satis": 41550.73
+            "alis": 41579.26,
+            "satis": 42619.78
         },
         "GUMUS": {
             "orijinal_isim": "gumus",
-            "alis": 89.47,
-            "satis": 89.56
+            "alis": 91.45,
+            "satis": 91.54
         },
         "GRAM_PLATIN": {
             "orijinal_isim": "gram-platin",
-            "alis": 2459.38,
-            "satis": 2464.79
+            "alis": 2508.53,
+            "satis": 2513.96
         },
         "GRAM_PALADYUM": {
             "orijinal_isim": "gram-paladyum",
-            "alis": 1936.84,
-            "satis": 1942.52
+            "alis": 1995.64,
+            "satis": 2001.11
         }
     }
 }
