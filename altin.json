@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "2026-10-16 16:59:07",
+    "son_guncelleme": "2026-10-17 15:57:45",
     "altin_ve_emtia": {
         "VND": {
             "orijinal_isim": "VND",
@@ -8,13 +8,13 @@
         },
         "GRAM_ALTIN": {
             "orijinal_isim": "gram-altin",
-            "alis": 6632.44,
-            "satis": 6633.46
+            "alis": 6632.39,
+            "satis": 6633.21
         },
         "GRAM_HAS_ALTIN": {
             "orijinal_isim": "gram-has-altin",
-            "alis": 6599.28,
-            "satis": 6600.29
+            "alis": 6599.23,
+            "satis": 6600.04
         },
         "CEYREK_ALTIN": {
             "orijinal_isim": "ceyrek-altin",
@@ -83,18 +83,18 @@
         },
         "GUMUS": {
             "orijinal_isim": "gumus",
-            "alis": 91.31,
-            "satis": 91.39
+            "alis": 90.65,
+            "satis": 90.76
         },
         "GRAM_PLATIN": {
             "orijinal_isim": "gram-platin",
-            "alis": 2598.53,
-            "satis": 2605.23
+            "alis": 2596.5,
+            "satis": 2608.23
         },
         "GRAM_PALADYUM": {
             "orijinal_isim": "gram-paladyum",
-            "alis": 1784.13,
-            "satis": 1790.85
+            "alis": 1772.27,
+            "satis": 1781.77
         }
     }
 }
